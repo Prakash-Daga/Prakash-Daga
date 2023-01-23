@@ -112,6 +112,6 @@ ___
     </a> 
     <a href="sendto:prakashdaga48@gmail.com" target="_blank" rel="noreferrer"> 
       
-    </a>
+    
 </p>
 
