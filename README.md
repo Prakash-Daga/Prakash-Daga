@@ -109,8 +109,7 @@ ___
     <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
             alt="facebook handle" />
-    </a> 
-    <a href="sendto:prakashdaga48@gmail.com" target="_blank" rel="noreferrer"> 
+    
       
     
 </p>
