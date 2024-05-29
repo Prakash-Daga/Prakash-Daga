@@ -19,7 +19,7 @@
     
 <img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" style="padding-right:10px;" />
-<img align="left" alt="C" width="32px" src=" <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="C" style="padding-right:10px;" />
+<img align="left" alt="c-programming" width="32px" src="https://img.icons8.com/color/144/000000/c-programming.png" alt="C" style="padding-right:10px;" />
 
 <img align="left" alt="HTML 5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />    
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
