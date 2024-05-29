@@ -73,9 +73,6 @@ ___
  <a href="https://linkedin.com/in/prakash-daga/" target="_blank" rel="noreferrer">
         <img src="./socials/linkedin.svg" alt="linkedin handle" width="35px" />
     </a> &nbsp;
-    <a href="https://instagram.com/in/prakash-daga/" target="_blank" rel="noreferrer">
-        <img src="./socials/instagram.svg" alt="instagram" width="35px" />
-    </a> &nbsp;
     <a href="mailto:prakashdaga82@gmail.com" target="_blank" rel="noreferrer"> 
       <img src="./socials/email.svg"
             alt="gmail" width="35px" />
