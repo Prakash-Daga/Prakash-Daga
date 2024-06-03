@@ -1,8 +1,5 @@
 # Hi there. I'm Prakash Daga. 👋
-<!-- <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Anuj-Khadka&label=Profile%20views&color=0e75b6&style=for-the-badge"
-        alt="Prakash-Daga" />
-</p>
+
 
 --> 
 
